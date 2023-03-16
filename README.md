@@ -11,7 +11,7 @@ comment:  This document is a simple LiaScript course example.
 
 -->
 
-# Algebra 1 for 8th Grade Students
+# Algebra 1 
 
 ## Benchmarking Quiz
 
