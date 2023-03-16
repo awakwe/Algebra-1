@@ -22,13 +22,19 @@ In the Benchmarking Quiz, you will be asked a series of multiple-choice question
 
 1. What is the value of x in the equation 3x - 7 = 11?
 
-`[[6]]`
+[( )] x = 4
+[(X)] x = 6
+[( )] x = 8
+[( )] x = 10
 [[?]] Add 7 to both sides of the equation
 [[?]] Divide both sides of the equation by 3
 
 2. Simplify the expression: 4(2x - 3) + 5
 
-`[[8x-7]]`
+[( )] 8x + 5
+[( )] 8x - 7
+[(X)] 8x - 12
+[( )] 6x - 5
 [[?]] Distribute 4 to both terms inside the parentheses
 [[?]] Add 5 to the result
 
@@ -37,27 +43,34 @@ In the Benchmarking Quiz, you will be asked a series of multiple-choice question
 [(X)] x = 7/3
 [( )] x = 2/3
 [( )] x = 3/7
+[( )] x = 1
 [[?]] Start by subtracting 2x from both sides
 [[?]] Next, add 3 to both sides and then divide by 3
 
 4. Factor the quadratic expression: x^2 - 5x + 6
 
-`[(x-2)(x-3)]`
+[(X)] (x - 2)(x - 3)
+[( )] (x - 1)(x - 4)
+[( )] (x - 3)(x - 4)
+[( )] (x - 1)(x - 6)
 [[?]] Look for two numbers that multiply to 6 and add to -5
 [[?]] Write the expression in factored form
 
 5. Solve the quadratic equation: x^2 - 4x + 3 = 0
 
-[[1,3]] <-- correct
-[[ ]] 1, -3
-[[ ]] -1, 3
-[[X]] 0, 4
+[(X)] x = 1, 3
+[( )] x = -1, 3
+[( )] x = 1, -3
+[( )] x = 0, 4
 [[?]] Factor the equation
 [[?]] Set each factor equal to zero and solve for x
 
 6. Simplify the expression: (3x^2 - 4x + 1) - (2x^2 - 3x + 5)
 
-`[[x^2-x-4]]`
+[( )] x^2 + x + 6
+[(X)] x^2 - x - 4
+[( )] x^2 - 5x - 4
+[( )] 5x^2 - x + 6
 [[?]] Subtract the corresponding terms of the two expressions
 [[?]] Combine like terms
 
@@ -66,7 +79,10 @@ In the Benchmarking Quiz, you will be asked a series of multiple-choice question
 x + 2y = 7
 3x - y = 5
 
-`[[x=2, y=2.5]]`
+[( )] x = 1, y = 3
+[(X)] x = 2, y = 2.5
+[( )] x = 3, y = 2
+[( )] x = 4, y = 1.5
 [[?]] Use either the substitution or elimination method
 [[?]] Solve for one variable and then find the other
 [[?]] Check your solution by plugging the values back into the original equations
