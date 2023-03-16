@@ -17,10 +17,59 @@ comment:  This document is a simple LiaScript course example.
 
 Before we dive into the topics covered in this module, it's important to assess your current knowledge of Algebra 1. Take this benchmarking quiz to see how much you already know and to identify areas where you may need to focus your study.
 
-[Click here to take the benchmarking quiz.](insert quiz link here)
-
 Once you have completed the quiz, review your results and identify the topics where you scored the lowest. These topics will be important to focus on during the rest of the module.
 In the Benchmarking Quiz, you will be asked a series of multiple-choice questions that cover a range of topics in Algebra 1. The quiz is designed to help you assess your current knowledge and identify areas where you may need to focus your study. Once you have completed the quiz, you will be able to review your results and see which topics you need to work on. This will help you get the most out of the rest of the module and be better prepared for future studies in Algebra 1.
+
+1. What is the value of x in the equation 3x - 7 = 11?
+
+`[[6]]`
+[[?]] Add 7 to both sides of the equation
+[[?]] Divide both sides of the equation by 3
+
+2. Simplify the expression: 4(2x - 3) + 5
+
+`[[8x-7]]`
+[[?]] Distribute 4 to both terms inside the parentheses
+[[?]] Add 5 to the result
+
+3. Solve the linear equation: 5x - 3 = 2x + 4
+
+[(X)] x = 7/3
+[( )] x = 2/3
+[( )] x = 3/7
+[[?]] Start by subtracting 2x from both sides
+[[?]] Next, add 3 to both sides and then divide by 3
+
+4. Factor the quadratic expression: x^2 - 5x + 6
+
+`[(x-2)(x-3)]`
+[[?]] Look for two numbers that multiply to 6 and add to -5
+[[?]] Write the expression in factored form
+
+5. Solve the quadratic equation: x^2 - 4x + 3 = 0
+
+[[1,3]] <-- correct
+[[ ]] 1, -3
+[[ ]] -1, 3
+[[X]] 0, 4
+[[?]] Factor the equation
+[[?]] Set each factor equal to zero and solve for x
+
+6. Simplify the expression: (3x^2 - 4x + 1) - (2x^2 - 3x + 5)
+
+`[[x^2-x-4]]`
+[[?]] Subtract the corresponding terms of the two expressions
+[[?]] Combine like terms
+
+7. Solve the system of linear equations:
+
+x + 2y = 7
+3x - y = 5
+
+`[[x=2, y=2.5]]`
+[[?]] Use either the substitution or elimination method
+[[?]] Solve for one variable and then find the other
+[[?]] Check your solution by plugging the values back into the original equations
 
 ## Introduction
 
